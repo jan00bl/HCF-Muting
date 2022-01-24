@@ -1,7 +1,10 @@
 {
   "name": "hcf-muting",
   "version": "1.0.0",
-  "description": "Mute your external microphone with your mute button on your hyperx cloud flight",
+  "description": "Mute your default microphone with the mute button on your hyperx cloud flight",
+  "repository": {
+    "url": "https://github.com/jan00bl/HCF-Muting"
+  },
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
