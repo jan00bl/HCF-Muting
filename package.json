@@ -1,0 +1,17 @@
+{
+  "name": "hcf-muting",
+  "version": "1.0.0",
+  "description": "Mute your external microphone with your mute button on your hyperx cloud flight",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jan00bl",
+  "license": "MIT",
+  "dependencies": {
+    "hyperx-cloud-flight-wireless": "github:srn/hyperx-cloud-flight-wireless",
+    "node-hide-console-window": "^2.1.0",
+    "systray": "^1.0.5",
+    "win-audio": "^2.0.2"
+  }
+}
