@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "hyperx-cloud-flight-wireless": "github:srn/hyperx-cloud-flight-wireless",
-    "node-hide-console-window": "^2.1.0",
+    "node-hide-console-window": "^2.1.1",
     "systray": "^1.0.5",
     "win-audio": "^2.0.2"
   }
